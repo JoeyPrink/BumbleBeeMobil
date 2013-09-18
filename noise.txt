@@ -1,0 +1,4 @@
+Sound.playNote(Sound.Flute,698,2000);Sound.playNote(Sound.Flute,659,500);
+Sound.playNote(Sound.Flute,698,500);Sound.playNote(Sound.Flute,659,1000);
+Sound.playNote(Sound.Flute,523,1500);Sound.playNote(Sound.Flute,440,500);
+Sound.playNote(Sound.Flute,587,1000);Sound.playNote(Sound.Flute,440,1000);
